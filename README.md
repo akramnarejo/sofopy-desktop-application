@@ -9,9 +9,9 @@ This application
 * lets you store the summarized analysis.
 
 ### This application is developed in python & opencv
-![application](https://user-images.githubusercontent.com/19623279/67902579-4ea56980-fb8b-11e9-91fa-e0eced009cd0.PNG)
-
-
-
-![application2](https://user-images.githubusercontent.com/19623279/67903351-26b70580-fb8d-11e9-8e33-4d1c9e3a7340.PNG)
-
+We select the file as input to process
+![tobii 1](https://user-images.githubusercontent.com/19623279/86698205-891faa00-c028-11ea-8615-ce0883a58a1b.png)
+after selecting file we summarize the file and then it tells that summarization is completed
+![tobii 2](https://user-images.githubusercontent.com/19623279/86698230-8e7cf480-c028-11ea-914b-49c38cf76ecb.png)
+In the end we see the focused objects along with duration
+![tobii 3](https://user-images.githubusercontent.com/19623279/86698243-9177e500-c028-11ea-962b-d170562c77fe.png)
